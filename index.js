@@ -7,7 +7,7 @@ const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
 const mongoose = require('mongoose');
 
 //const dbUrl = process.env.mongoURL;
-const dbUrl = 'mongodb+srv://BRejected:<f1re0fG0d>@cluster0.dpr9a.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
+const dbUrl = 'mongodb+srv://BRejected:f1re0fG0d@cluster0.dpr9a.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
 
 mongoose.connect(dbUrl, {
     useNewUrlParser: true,
