@@ -1,0 +1,5 @@
+NPM:
+
+Discord
+MongoDB
+mongoose
