@@ -28,4 +28,4 @@ client.once('ready', () => {
 
 // Login to Discord with your client's token
 //client.login(token);
-client.login('OTIzMzEwNTU1MTUyOTIwNTk3.YcOJ9g.tpb8bX36yGmnUlUdKZyZxI0LwoE');
+client.login('OTIzMzEwNTU1MTUyOTIwNTk3.YcOJ9g.677rvjTtBiuLrUV6XGF8RxmWB18');
