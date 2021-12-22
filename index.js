@@ -1,6 +1,6 @@
 const { Client, Intents } = require('discord.js');
 //const { token } = require('./config.json');
-const { token } = process.env.Dtoken
+//const { token } = process.env.Dtoken
 
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
 
@@ -28,4 +28,4 @@ client.once('ready', () => {
 
 // Login to Discord with your client's token
 //client.login(token);
-client.login('lYKakjkjNVdDKpWdGbFuCJ9n-Cmz-vou');
+client.login('OTIzMzEwNTU1MTUyOTIwNTk3.YcOJ9g.tpb8bX36yGmnUlUdKZyZxI0LwoE');
